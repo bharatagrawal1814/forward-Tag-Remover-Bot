@@ -11,11 +11,6 @@
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
-<h3>Easy Way (Coding)</h3>
-  <b><a href="https://youtu.be/swg6un2N4Fk">How To Deploy?</a></b><br>
-
-<b>Telegram</b><br>
-<b>Join Us on <a href="https://telegram.dog/TeamCyphers">Telegram</a></b>
 
 <b>Known Bugs🐞🐞</b><br>
 <b>-You Cant Add Caption To Audio<br>
