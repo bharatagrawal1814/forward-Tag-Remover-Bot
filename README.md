@@ -4,7 +4,7 @@
   <b>BOT_TOKEN: Get This Value From <a href="https://telegram.dog/botfather">@Botfather</a></b>
 
 <b>Live Version Of Bot:</b><br>
- <b><a href="https://telegram.dog/Anonforwabot">@AnonForwaBot</a></b>
+ <b><a href="https://telegram.dog/anonymousmcjnbot">@anonymousmcjnbot</a></b>
 
 <h3>Very Easy Way(No Coding)</h3>
 <a href="https://heroku.com/deploy?template=https://github.com/Artis7eeR/forward-Tag-Remover-Bot">
