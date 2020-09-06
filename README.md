@@ -7,7 +7,6 @@
  <b><a href="https://telegram.dog/anonymousmcjnbot">@anonymousmcjnbot</a></b>
 
 <h3>Very Easy Way(No Coding)</h3>
-<h>For Non - Programmers</h>
 <a href="https://heroku.com/deploy?template=https://github.com/Cool-Dude-x
 /
 forward-Tag-Remover-Bot">
